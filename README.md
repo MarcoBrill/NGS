@@ -20,10 +20,10 @@ Save the Python script as ngs_pipeline.py.
 Create a data/ directory and place your FASTA file (e.g., sample.fasta) inside it.
 
 Install the required libraries:
-bash    pip install -r requirements.txt
+(bash)    pip install -r requirements.txt
 
 Run the script:
-bash    python ngs_pipeline.py
+(bash)    python ngs_pipeline.py
 
 ## Notes
 Modify the script to suit your specific NGS analysis task (e.g., variant calling, gene expression analysis).
