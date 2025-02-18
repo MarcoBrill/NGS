@@ -20,7 +20,7 @@ Save the Python script as ngs_pipeline.py.
 Create a data/ directory and place your FASTA file (e.g., sample.fasta) inside it.
 
 Install the required libraries:
-(bash)    pip install -r requirements.txt
+'''bash    pip install -r requirements.txt'''
 
 Run the script:
 (bash)    python ngs_pipeline.py
